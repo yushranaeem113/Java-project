@@ -1,0 +1,6 @@
+C242-1,Yushra Binte,yushra,sister,3333,customer,unblocked,null,jaka@gmail.com,015555555,kuril,1780
+C242-2,pranto sen,sen,father,5555,customer,unblocked,null,sen@gmail.com,01588888888,kuril,0
+C242-3,Tanvir Hossen,tanvir,snake,6666,customer,unblocked,nai,tanvir@gmail.com,04392399222,kuril,0
+C242-4,Fuad Hasan,dipro,ma,7777,customer,unblocked,null,dipro@gmail.com,0184474744,nikunja,0
+C242-5,Rasel Hossen,rasel,noone,777,customer,unblocked,null,rasel@gmail.com,0125555555,dhaka,450
+C242-6,shuvo,sss,mm,112233,customer,unblocked,null,s@gmail.com,558898984,wfae,0

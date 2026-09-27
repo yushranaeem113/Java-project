@@ -1,0 +1,6 @@
+M-1,Napa 500mg,25,0,frame/medicines/napa.png
+M-2,Sergel 20mg,105,0,H:\Project\frame\medicines\sergel.png
+M-3,Opton 50mg,500,21,H:\Project\frame\medicines\opton.png
+M-4,Napa Extra 600mg,30,9,H:\Project\frame\medicines\napa.png
+M-5,Alarid 5mg,350,10,H:\Project\frame\medicines\comet.png
+M-6,napa 6660mg,15,7,H:\Project\frame\medicines\napa.png

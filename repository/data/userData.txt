@@ -1,0 +1,10 @@
+A240-1,Tofayel Hossain,shuvo,mother,1111,admin,unblocked,no
+E241-1,Jakaria Naim,jakaria,father,2222,employee,unblocked,hudai
+C242-1,Yushra Binte,yushra,sister,0000,customer,unblocked,null
+E241-2,Tofayel Hossain,shuvo,mother,3333,employee,unblocked,kori nai to
+C242-2,pranto sen,sen,snake,5555,customer,unblocked,null
+C242-3,Tanvir Hossen,tanvir,snake,6666,customer,unblocked,nai
+C242-4,Fuad Hasan,dipro,ma,7777,customer,unblocked,null
+E241-3,Google,google,snake,8888,employee,unblocked,nai
+C242-5,Rasel Hossen,rasel,noone,7777,customer,unblocked,null
+C242-6,shuvo,sss,mm,112233,customer,unblocked,null

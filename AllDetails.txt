@@ -1,0 +1,32 @@
+Main Title = League Spartan,Black,Bold,20-22
+Textfield title = League Spartan,Black,Bold,14-16
+Normal Title = Poppins,Black,14-16
+Focus Title/Use for button = Poppins,#FF3131,14-16
+TextField = Poppins,Black,15-16
+Button = League Spartan,Black,Bold,16-17
+
+Main Color = #FF3131
+Try to use white color where main color is not matching or not look good.
+
+
+Focus on:
+JFrame
+File.io (search youtube File.io in java swing)
+ActionListener, ActionEvent
+JLabel
+JTextField,JPasswordField
+JButton
+JTable, DefaultTableModel
+JScrollPane
+Font
+JPanel
+JCheckBox
+JOptionPane
+JRadioButton
+JImageIcon
+JFileChooser
+JDialog
+All kind of layout
+
+Date,time,month by java swing
+

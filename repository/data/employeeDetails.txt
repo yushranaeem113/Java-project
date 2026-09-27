@@ -1,0 +1,3 @@
+E241-1,Jakaria Naim,jakaria,father,2222,employee,unblocked,no,jaka@gmail.com,015555555,kuril,0
+E241-2,Tofayel Hossain,shuvo,mother,3333,employee,blocked,test,tofayel@gmail.com,0188393933,nikunja,15000
+E241-3,Google,google,snake,8888,employee,unblocked,nai,goggle2gmail.com,01588888888,weew,0
